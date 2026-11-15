@@ -1,0 +1,3715 @@
+[
+  {
+    "id": 22001,
+    "name": "Roberto Carlos",
+    "year": 2002,
+    "edition": "ELITE",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 95,
+    "country": "Brasil",
+    "club": "Real Madrid",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/ROBERTO_CARLOS_2002/ROBERTO_CARLOS_2002_CARTA_ELITE.png",
+    "image": "/fullbacks/LI/ROBERTO_CARLOS_2002/ROBERTO_CARLOS_2002_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/ROBERTO_CARLOS_2002/ROBERTO_CARLOS_2002_SILUETA.png"
+  },
+  {
+    "id": 22002,
+    "name": "Marcelo",
+    "year": 2017,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 93,
+    "country": "Brasil",
+    "club": "Real Madrid",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/MARCELO_2017/MARCELO_2017_CARTA_ESTRELLA.png",
+    "image": "/fullbacks/LI/MARCELO_2017/MARCELO_2017_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/MARCELO_2017/MARCELO_2017_SILUETA.png"
+  },
+  {
+    "id": 22003,
+    "name": "Theo Hernández",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 91,
+    "country": "Francia",
+    "club": "AC Milan",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/THEO_HERNANDEZ_2022/THEO_HERNANDEZ_2022_CARTA_ESTRELLA.png",
+    "image": "/fullbacks/LI/THEO_HERNANDEZ_2022/THEO_HERNANDEZ_2022_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/THEO_HERNANDEZ_2022/THEO_HERNANDEZ_2022_SILUETA.png"
+  },
+  {
+    "id": 22004,
+    "name": "Alphonso Davies",
+    "year": 2020,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 90,
+    "country": "Canadá",
+    "club": "Bayern Múnich",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/ALPHONSO_DAVIES_2020/ALPHONSO_DAVIES_2020_CARTA_ESTRELLA.png",
+    "image": "/fullbacks/LI/ALPHONSO_DAVIES_2020/ALPHONSO_DAVIES_2020_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/ALPHONSO_DAVIES_2020/ALPHONSO_DAVIES_2020_SILUETA.png"
+  },
+  {
+    "id": 22005,
+    "name": "Alejandro Balde",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 85,
+    "country": "España",
+    "club": "Barcelona",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/ALEJANDRO_BALDE_2023/ALEJANDRO_BALDE_2023_CARTA_INTERMEDIO.png",
+    "image": "/fullbacks/LI/ALEJANDRO_BALDE_2023/ALEJANDRO_BALDE_2023_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/ALEJANDRO_BALDE_2023/ALEJANDRO_BALDE_2023_SILUETA.png"
+  },
+  {
+    "id": 22006,
+    "name": "Luke Shaw",
+    "year": 2021,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 85,
+    "country": "Inglaterra",
+    "club": "Manchester United",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/LUKE_SHAW_2021/LUKE_SHAW_2021_CARTA_INTERMEDIO.png",
+    "image": "/fullbacks/LI/LUKE_SHAW_2021/LUKE_SHAW_2021_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/LUKE_SHAW_2021/LUKE_SHAW_2021_SILUETA.png"
+  },
+  {
+    "id": 22007,
+    "name": "Milos Kerkez",
+    "year": 2024,
+    "edition": "INICIAL",
+    "position": "DEF",
+    "positions": [
+      "LI"
+    ],
+    "slotPosition": "LI",
+    "rating": 79,
+    "country": "Hungría",
+    "club": "Bournemouth",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LI/MILOS_KERKEZ_2024/MILOS_KERKEZ_2024_CARTA_INICIAL.png",
+    "image": "/fullbacks/LI/MILOS_KERKEZ_2024/MILOS_KERKEZ_2024_JUGADOR.png",
+    "silhouette": "/fullbacks/LI/MILOS_KERKEZ_2024/MILOS_KERKEZ_2024_SILUETA.png"
+  },
+  {
+    "id": 21001,
+    "name": "Cafú",
+    "year": 2002,
+    "edition": "ELITE",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 94,
+    "country": "Brasil",
+    "club": "Roma",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/CAFU_2002/CAFU_2002_CARTA_ELITE.png",
+    "image": "/fullbacks/LD/CAFU_2002/CAFU_2002_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/CAFU_2002/CAFU_2002_SILUETA.png"
+  },
+  {
+    "id": 21002,
+    "name": "Achraf Hakimi",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 91,
+    "country": "Marruecos",
+    "club": "PSG",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/ACHRAF_HAKIMI_2022/ACHRAF_HAKIMI_2022_CARTA_ESTRELLA.png",
+    "image": "/fullbacks/LD/ACHRAF_HAKIMI_2022/ACHRAF_HAKIMI_2022_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/ACHRAF_HAKIMI_2022/ACHRAF_HAKIMI_2022_SILUETA.png"
+  },
+  {
+    "id": 21003,
+    "name": "Trent Alexander-Arnold",
+    "year": 2019,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 91,
+    "country": "Inglaterra",
+    "club": "Liverpool",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/TRENT_ALEXANDER_ARNOLD_2019/TRENT_ALEXANDER_ARNOLD_2019_CARTA_ESTRELLA.png",
+    "image": "/fullbacks/LD/TRENT_ALEXANDER_ARNOLD_2019/TRENT_ALEXANDER_ARNOLD_2019_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/TRENT_ALEXANDER_ARNOLD_2019/TRENT_ALEXANDER_ARNOLD_2019_SILUETA.png"
+  },
+  {
+    "id": 21004,
+    "name": "Kyle Walker",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 89,
+    "country": "Inglaterra",
+    "club": "Manchester City",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/KYLE_WALKER_2023/KYLE_WALKER_2023_CARTA_INTERMEDIO.png",
+    "image": "/fullbacks/LD/KYLE_WALKER_2023/KYLE_WALKER_2023_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/KYLE_WALKER_2023/KYLE_WALKER_2023_SILUETA.png"
+  },
+  {
+    "id": 21005,
+    "name": "Pedro Porro",
+    "year": 2024,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 86,
+    "country": "España",
+    "club": "Tottenham",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/PEDRO_PORRO_2024/PEDRO_PORRO_2024_CARTA_INTERMEDIO.png",
+    "image": "/fullbacks/LD/PEDRO_PORRO_2024/PEDRO_PORRO_2024_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/PEDRO_PORRO_2024/PEDRO_PORRO_2024_SILUETA.png"
+  },
+  {
+    "id": 21006,
+    "name": "Diogo Dalot",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 84,
+    "country": "Portugal",
+    "club": "Manchester United",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/DIOGO_DALOT_2023/DIOGO_DALOT_2023_CARTA_INTERMEDIO.png",
+    "image": "/fullbacks/LD/DIOGO_DALOT_2023/DIOGO_DALOT_2023_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/DIOGO_DALOT_2023/DIOGO_DALOT_2023_SILUETA.png"
+  },
+  {
+    "id": 21007,
+    "name": "Héctor Fort",
+    "year": 2024,
+    "edition": "INICIAL",
+    "position": "DEF",
+    "positions": [
+      "LD"
+    ],
+    "slotPosition": "LD",
+    "rating": 77,
+    "country": "España",
+    "club": "Barcelona",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/fullbacks/LD/HECTOR_FORT_2024/HECTOR_FORT_2024_CARTA_INICIAL.png",
+    "image": "/fullbacks/LD/HECTOR_FORT_2024/HECTOR_FORT_2024_JUGADOR.png",
+    "silhouette": "/fullbacks/LD/HECTOR_FORT_2024/HECTOR_FORT_2024_SILUETA.png"
+  },
+  {
+    "id": 20001,
+    "name": "Paolo Maldini",
+    "year": 2005,
+    "edition": "ÉLITE",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 95,
+    "country": "Italia",
+    "club": "AC Milan",
+    "awards": [],
+    "image": "/centerbacks/MALDINI_2005/MALDINI_2005_JUGADOR.png",
+    "silhouette": "/centerbacks/MALDINI_2005/MALDINI_2005_SILUETA.png",
+    "cardImage": "/centerbacks/MALDINI_2005/MALDINI_2005_CARTA_ELITE.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20002,
+    "name": "Sergio Ramos",
+    "year": 2014,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 94,
+    "country": "España",
+    "club": "Real Madrid",
+    "awards": [],
+    "image": "/centerbacks/SERGIO_RAMOS_2014/SERGIO_RAMOS_2014_JUGADOR.png",
+    "silhouette": "/centerbacks/SERGIO_RAMOS_2014/SERGIO_RAMOS_2014_SILUETA.png",
+    "cardImage": "/centerbacks/SERGIO_RAMOS_2014/SERGIO_RAMOS_2014_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20003,
+    "name": "Virgil van Dijk",
+    "year": 2019,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 94,
+    "country": "Países Bajos",
+    "club": "Liverpool",
+    "awards": [],
+    "image": "/centerbacks/VIRGIL_VAN_DIJK_2019/VIRGIL_VAN_DIJK_2019_JUGADOR.png",
+    "silhouette": "/centerbacks/VIRGIL_VAN_DIJK_2019/VIRGIL_VAN_DIJK_2019_SILUETA.png",
+    "cardImage": "/centerbacks/VIRGIL_VAN_DIJK_2019/VIRGIL_VAN_DIJK_2019_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20004,
+    "name": "Carles Puyol",
+    "year": 2010,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 94,
+    "country": "España",
+    "club": "FC Barcelona",
+    "awards": [],
+    "image": "/centerbacks/CARLES_PUYOL_2010/CARLES_PUYOL_2010_JUGADOR.png",
+    "silhouette": "/centerbacks/CARLES_PUYOL_2010/CARLES_PUYOL_2010_SILUETA.png",
+    "cardImage": "/centerbacks/CARLES_PUYOL_2010/CARLES_PUYOL_2010_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20005,
+    "name": "Rúben Dias",
+    "year": 2021,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 93,
+    "country": "Portugal",
+    "club": "Manchester City",
+    "awards": [],
+    "image": "/centerbacks/RUBEN_DIAS_2021/RUBEN_DIAS_2021_JUGADOR.png",
+    "silhouette": "/centerbacks/RUBEN_DIAS_2021/RUBEN_DIAS_2021_SILUETA.png",
+    "cardImage": "/centerbacks/RUBEN_DIAS_2021/RUBEN_DIAS_2021_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20006,
+    "name": "Ronald Araújo",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 92,
+    "country": "Uruguay",
+    "club": "FC Barcelona",
+    "awards": [],
+    "image": "/centerbacks/RONALD_ARAUJO_2024/RONALD_ARAUJO_2024_JUGADOR.png",
+    "silhouette": "/centerbacks/RONALD_ARAUJO_2024/RONALD_ARAUJO_2024_SILUETA.png",
+    "cardImage": "/centerbacks/RONALD_ARAUJO_2024/RONALD_ARAUJO_2023_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20007,
+    "name": "Alessandro Nesta",
+    "year": 2007,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 94,
+    "country": "Italia",
+    "club": "AC Milan",
+    "awards": [],
+    "image": "/centerbacks/ALESSANDRO_NESTA_2007/ALESSANDRO_NESTA_2007_JUGADOR.png",
+    "silhouette": "/centerbacks/ALESSANDRO_NESTA_2007/ALESSANDRO_NESTA_2007_SILUETA.png",
+    "cardImage": "/centerbacks/ALESSANDRO_NESTA_2007/ALESSANDRO_NESTA_2007_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20008,
+    "name": "John Terry",
+    "year": 2012,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 93,
+    "country": "Inglaterra",
+    "club": "Chelsea",
+    "awards": [],
+    "image": "/centerbacks/JOHN_TERRY_2005/JOHN_TERRY_2005_JUGADOR.png",
+    "silhouette": "/centerbacks/JOHN_TERRY_2005/JOHN_TERRY_2005_SILUETA.png",
+    "cardImage": "/centerbacks/JOHN_TERRY_2005/JOHN_TERRY_2012_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20009,
+    "name": "Thiago Silva",
+    "year": 2021,
+    "edition": "ESTRELLA",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 92,
+    "country": "Brasil",
+    "club": "Chelsea",
+    "awards": [],
+    "image": "/centerbacks/THIAGO_SILVA_2021/THIAGO_SILVA_2021_JUGADOR.png",
+    "silhouette": "/centerbacks/THIAGO_SILVA_2021/THIAGO_SILVA_2021_SILUETA.png",
+    "cardImage": "/centerbacks/THIAGO_SILVA_2021/THIAGO_SILVA_2021_CARTA_ESTRELLA.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 20010,
+    "name": "Éder Militão",
+    "year": 2024,
+    "edition": "INTERMEDIO",
+    "position": "DEF",
+    "positions": [
+      "DFC"
+    ],
+    "rating": 89,
+    "country": "Brasil",
+    "club": "Real Madrid",
+    "awards": [],
+    "image": "/centerbacks/EDER_MILITAO_2024/EDER_MILITAO_2024_JUGADOR.png",
+    "silhouette": "/centerbacks/EDER_MILITAO_2024/EDER_MILITAO_2024_SILUETA.png",
+    "cardImage": "/centerbacks/EDER_MILITAO_2024/EDER_MILITAO_2024_CARTA_INTERMEDIO.png",
+    "assetReady": true,
+    "reserveOnly": false,
+    "slotPosition": "DFC"
+  },
+  {
+    "id": 21,
+    "name": "Bruno Torres",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 86,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/21.png",
+    "silhouette": "/players/21.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 22,
+    "name": "Diego Ríos",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/22.png",
+    "silhouette": "/players/22.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 23,
+    "name": "Hugo Mendes",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 75,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/23.png",
+    "silhouette": "/players/23.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 24,
+    "name": "Marco Vidal",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 85,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/24.png",
+    "silhouette": "/players/24.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 25,
+    "name": "Pablo Luna",
+    "year": 2019,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 92,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/25.png",
+    "silhouette": "/players/25.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 26,
+    "name": "Sergio Cruz",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 73,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/26.png",
+    "silhouette": "/players/26.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 27,
+    "name": "Nico Herrera",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 90,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/27.png",
+    "silhouette": "/players/27.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 28,
+    "name": "Iván Soto",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/28.png",
+    "silhouette": "/players/28.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 29,
+    "name": "Gabriel Ruiz",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 90,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/29.png",
+    "silhouette": "/players/29.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 30,
+    "name": "Óscar Paredes",
+    "year": 2024,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 81,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/30.png",
+    "silhouette": "/players/30.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 31,
+    "name": "Thiago Molina",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 74,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/31.png",
+    "silhouette": "/players/31.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 32,
+    "name": "Daniel Castro",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 94,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/32.png",
+    "silhouette": "/players/32.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 33,
+    "name": "Emilio Reyes",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 86,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/33.png",
+    "silhouette": "/players/33.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 34,
+    "name": "Gabriel Reyes",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 94,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/34.png",
+    "silhouette": "/players/34.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 35,
+    "name": "Lucas Mendes",
+    "year": 2013,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 80,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/35.png",
+    "silhouette": "/players/35.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 36,
+    "name": "Nicolás Herrera",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 80,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/36.png",
+    "silhouette": "/players/36.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 37,
+    "name": "Santiago Vega",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 79,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/37.png",
+    "silhouette": "/players/37.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 38,
+    "name": "Emilio Rojas",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 83,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/38.png",
+    "silhouette": "/players/38.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 39,
+    "name": "Bruno Reyes",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 76,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/39.png",
+    "silhouette": "/players/39.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 40,
+    "name": "Daniel Mendes",
+    "year": 2018,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 75,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/40.png",
+    "silhouette": "/players/40.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 41,
+    "name": "Álex Herrera",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 87,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/41.png",
+    "silhouette": "/players/41.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 42,
+    "name": "Tomás Vega",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 78,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/42.png",
+    "silhouette": "/players/42.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 43,
+    "name": "Iván Rojas",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 85,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/43.png",
+    "silhouette": "/players/43.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 44,
+    "name": "Rafael Reyes",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 83,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/44.png",
+    "silhouette": "/players/44.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 45,
+    "name": "Mateo Mendes",
+    "year": 2023,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/45.png",
+    "silhouette": "/players/45.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 46,
+    "name": "Gabriel Herrera",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 80,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/46.png",
+    "silhouette": "/players/46.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 47,
+    "name": "Lucas Vega",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 89,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/47.png",
+    "silhouette": "/players/47.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 48,
+    "name": "Nicolás Rojas",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 94,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/48.png",
+    "silhouette": "/players/48.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 49,
+    "name": "Santiago Reyes",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 79,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/49.png",
+    "silhouette": "/players/49.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 50,
+    "name": "Emilio Mendes",
+    "year": 2012,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 83,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/50.png",
+    "silhouette": "/players/50.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 51,
+    "name": "Bruno Herrera",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 76,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/51.png",
+    "silhouette": "/players/51.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 52,
+    "name": "Daniel Vega",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 75,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/52.png",
+    "silhouette": "/players/52.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 53,
+    "name": "Álex Rojas",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 87,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/53.png",
+    "silhouette": "/players/53.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 54,
+    "name": "Tomás Reyes",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 78,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/54.png",
+    "silhouette": "/players/54.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 55,
+    "name": "Iván Mendes",
+    "year": 2017,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 85,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/55.png",
+    "silhouette": "/players/55.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 56,
+    "name": "Rafael Herrera",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 83,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/56.png",
+    "silhouette": "/players/56.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 57,
+    "name": "Mateo Vega",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/57.png",
+    "silhouette": "/players/57.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 58,
+    "name": "Gabriel Rojas",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 80,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/58.png",
+    "silhouette": "/players/58.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 59,
+    "name": "Lucas Reyes",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 89,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/59.png",
+    "silhouette": "/players/59.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 60,
+    "name": "Nicolás Mendes",
+    "year": 2022,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 94,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/60.png",
+    "silhouette": "/players/60.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 61,
+    "name": "Santiago Herrera",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 81,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/61.png",
+    "silhouette": "/players/61.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 62,
+    "name": "Emilio Vega",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 88,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/62.png",
+    "silhouette": "/players/62.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 63,
+    "name": "Bruno Rojas",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 79,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/63.png",
+    "silhouette": "/players/63.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 64,
+    "name": "Daniel Reyes",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 75,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/64.png",
+    "silhouette": "/players/64.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 65,
+    "name": "Álex Mendes",
+    "year": 2011,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 74,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/65.png",
+    "silhouette": "/players/65.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 66,
+    "name": "Tomás Herrera",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 74,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/66.png",
+    "silhouette": "/players/66.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 67,
+    "name": "Iván Vega",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 88,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/67.png",
+    "silhouette": "/players/67.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 68,
+    "name": "Rafael Rojas",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 85,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/68.png",
+    "silhouette": "/players/68.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 69,
+    "name": "Mateo Reyes",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 86,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/69.png",
+    "silhouette": "/players/69.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 70,
+    "name": "Gabriel Mendes",
+    "year": 2016,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 92,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/70.png",
+    "silhouette": "/players/70.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 71,
+    "name": "Lucas Herrera",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 79,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/71.png",
+    "silhouette": "/players/71.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 72,
+    "name": "Nicolás Vega",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/72.png",
+    "silhouette": "/players/72.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 73,
+    "name": "Santiago Rojas",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 84,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/73.png",
+    "silhouette": "/players/73.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 74,
+    "name": "Emilio Reyes",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 89,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/74.png",
+    "silhouette": "/players/74.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 75,
+    "name": "Bruno Mendes",
+    "year": 2021,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 88,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/75.png",
+    "silhouette": "/players/75.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 76,
+    "name": "Daniel Herrera",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 93,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/76.png",
+    "silhouette": "/players/76.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 77,
+    "name": "Álex Vega",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 84,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/77.png",
+    "silhouette": "/players/77.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 78,
+    "name": "Tomás Rojas",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 88,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/78.png",
+    "silhouette": "/players/78.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 79,
+    "name": "Iván Reyes",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 81,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/79.png",
+    "silhouette": "/players/79.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 80,
+    "name": "Rafael Mendes",
+    "year": 2010,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 78,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/80.png",
+    "silhouette": "/players/80.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 81,
+    "name": "Mateo Herrera",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 87,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/81.png",
+    "silhouette": "/players/81.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 82,
+    "name": "Gabriel Vega",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 94,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/82.png",
+    "silhouette": "/players/82.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 83,
+    "name": "Lucas Rojas",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 90,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/83.png",
+    "silhouette": "/players/83.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 84,
+    "name": "Nicolás Reyes",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 91,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/84.png",
+    "silhouette": "/players/84.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 85,
+    "name": "Santiago Mendes",
+    "year": 2015,
+    "edition": "PRIME",
+    "position": "DEF",
+    "positions": [
+      "DEF"
+    ],
+    "rating": 79,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/85.png",
+    "silhouette": "/players/85.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 86,
+    "name": "Raúl Navarro",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 77,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/86.png",
+    "silhouette": "/players/86.png",
+    "assetReady": false
+  },
+  {
+    "id": 87,
+    "name": "Samuel Ortega",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 93,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/87.png",
+    "silhouette": "/players/87.png",
+    "assetReady": false
+  },
+  {
+    "id": 88,
+    "name": "Enzo Medina",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 90,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/88.png",
+    "silhouette": "/players/88.png",
+    "assetReady": false
+  },
+  {
+    "id": 89,
+    "name": "Alex Rojas",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 75,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/89.png",
+    "silhouette": "/players/89.png",
+    "assetReady": false
+  },
+  {
+    "id": 90,
+    "name": "David León",
+    "year": 2020,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 90,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/90.png",
+    "silhouette": "/players/90.png",
+    "assetReady": false
+  },
+  {
+    "id": 91,
+    "name": "Joel Vargas",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 80,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/91.png",
+    "silhouette": "/players/91.png",
+    "assetReady": false
+  },
+  {
+    "id": 92,
+    "name": "Ángel Duarte",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 83,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/92.png",
+    "silhouette": "/players/92.png",
+    "assetReady": false
+  },
+  {
+    "id": 93,
+    "name": "Andrés Solís",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 81,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/93.png",
+    "silhouette": "/players/93.png",
+    "assetReady": false
+  },
+  {
+    "id": 94,
+    "name": "Kevin Flores",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 78,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/94.png",
+    "silhouette": "/players/94.png",
+    "assetReady": false
+  },
+  {
+    "id": 95,
+    "name": "Javier Peña",
+    "year": 2025,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 75,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/95.png",
+    "silhouette": "/players/95.png",
+    "assetReady": false
+  },
+  {
+    "id": 96,
+    "name": "Iván Vega",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 81,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/96.png",
+    "silhouette": "/players/96.png",
+    "assetReady": false
+  },
+  {
+    "id": 97,
+    "name": "Rafael Rojas",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 88,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/97.png",
+    "silhouette": "/players/97.png",
+    "assetReady": false
+  },
+  {
+    "id": 98,
+    "name": "Mateo Reyes",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 79,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/98.png",
+    "silhouette": "/players/98.png",
+    "assetReady": false
+  },
+  {
+    "id": 99,
+    "name": "Gabriel Mendes",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 75,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/99.png",
+    "silhouette": "/players/99.png",
+    "assetReady": false
+  },
+  {
+    "id": 100,
+    "name": "Lucas Herrera",
+    "year": 2014,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 74,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/100.png",
+    "silhouette": "/players/100.png",
+    "assetReady": false
+  },
+  {
+    "id": 101,
+    "name": "Nicolás Vega",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 74,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/101.png",
+    "silhouette": "/players/101.png",
+    "assetReady": false
+  },
+  {
+    "id": 102,
+    "name": "Santiago Rojas",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 88,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/102.png",
+    "silhouette": "/players/102.png",
+    "assetReady": false
+  },
+  {
+    "id": 103,
+    "name": "Emilio Reyes",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 85,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/103.png",
+    "silhouette": "/players/103.png",
+    "assetReady": false
+  },
+  {
+    "id": 104,
+    "name": "Bruno Mendes",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 86,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/104.png",
+    "silhouette": "/players/104.png",
+    "assetReady": false
+  },
+  {
+    "id": 105,
+    "name": "Daniel Herrera",
+    "year": 2019,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 92,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/105.png",
+    "silhouette": "/players/105.png",
+    "assetReady": false
+  },
+  {
+    "id": 106,
+    "name": "Álex Vega",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 79,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/106.png",
+    "silhouette": "/players/106.png",
+    "assetReady": false
+  },
+  {
+    "id": 107,
+    "name": "Tomás Rojas",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 91,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/107.png",
+    "silhouette": "/players/107.png",
+    "assetReady": false
+  },
+  {
+    "id": 108,
+    "name": "Iván Reyes",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 84,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/108.png",
+    "silhouette": "/players/108.png",
+    "assetReady": false
+  },
+  {
+    "id": 109,
+    "name": "Rafael Mendes",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 89,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/109.png",
+    "silhouette": "/players/109.png",
+    "assetReady": false
+  },
+  {
+    "id": 110,
+    "name": "Mateo Torres",
+    "year": 2024,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 92,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/110.png",
+    "silhouette": "/players/110.png",
+    "assetReady": false
+  },
+  {
+    "id": 111,
+    "name": "Gabriel Costa",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 78,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/111.png",
+    "silhouette": "/players/111.png",
+    "assetReady": false
+  },
+  {
+    "id": 112,
+    "name": "Lucas Luna",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 74,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/112.png",
+    "silhouette": "/players/112.png",
+    "assetReady": false
+  },
+  {
+    "id": 113,
+    "name": "Nicolás Silva",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 85,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/113.png",
+    "silhouette": "/players/113.png",
+    "assetReady": false
+  },
+  {
+    "id": 114,
+    "name": "Santiago Soto",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 88,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/114.png",
+    "silhouette": "/players/114.png",
+    "assetReady": false
+  },
+  {
+    "id": 115,
+    "name": "Emilio Torres",
+    "year": 2013,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 80,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/115.png",
+    "silhouette": "/players/115.png",
+    "assetReady": false
+  },
+  {
+    "id": 116,
+    "name": "Bruno Costa",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 88,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/116.png",
+    "silhouette": "/players/116.png",
+    "assetReady": false
+  },
+  {
+    "id": 117,
+    "name": "Daniel Luna",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 93,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/117.png",
+    "silhouette": "/players/117.png",
+    "assetReady": false
+  },
+  {
+    "id": 118,
+    "name": "Álex Silva",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 75,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/118.png",
+    "silhouette": "/players/118.png",
+    "assetReady": false
+  },
+  {
+    "id": 119,
+    "name": "Tomás Soto",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 77,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/119.png",
+    "silhouette": "/players/119.png",
+    "assetReady": false
+  },
+  {
+    "id": 120,
+    "name": "Iván Torres",
+    "year": 2018,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 89,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/120.png",
+    "silhouette": "/players/120.png",
+    "assetReady": false
+  },
+  {
+    "id": 121,
+    "name": "Rafael Costa",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 92,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/121.png",
+    "silhouette": "/players/121.png",
+    "assetReady": false
+  },
+  {
+    "id": 122,
+    "name": "Mateo Luna",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 91,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/122.png",
+    "silhouette": "/players/122.png",
+    "assetReady": false
+  },
+  {
+    "id": 123,
+    "name": "Gabriel Silva",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 87,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/123.png",
+    "silhouette": "/players/123.png",
+    "assetReady": false
+  },
+  {
+    "id": 124,
+    "name": "Lucas Soto",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 78,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/124.png",
+    "silhouette": "/players/124.png",
+    "assetReady": false
+  },
+  {
+    "id": 125,
+    "name": "Nicolás Torres",
+    "year": 2023,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 80,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/125.png",
+    "silhouette": "/players/125.png",
+    "assetReady": false
+  },
+  {
+    "id": 126,
+    "name": "Santiago Costa",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 82,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/126.png",
+    "silhouette": "/players/126.png",
+    "assetReady": false
+  },
+  {
+    "id": 127,
+    "name": "Emilio Luna",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 82,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/127.png",
+    "silhouette": "/players/127.png",
+    "assetReady": false
+  },
+  {
+    "id": 128,
+    "name": "Bruno Silva",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 77,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/128.png",
+    "silhouette": "/players/128.png",
+    "assetReady": false
+  },
+  {
+    "id": 129,
+    "name": "Daniel Soto",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 84,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/129.png",
+    "silhouette": "/players/129.png",
+    "assetReady": false
+  },
+  {
+    "id": 130,
+    "name": "Álex Torres",
+    "year": 2012,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 76,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/130.png",
+    "silhouette": "/players/130.png",
+    "assetReady": false
+  },
+  {
+    "id": 131,
+    "name": "Tomás Costa",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 79,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/131.png",
+    "silhouette": "/players/131.png",
+    "assetReady": false
+  },
+  {
+    "id": 132,
+    "name": "Iván Luna",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 77,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/132.png",
+    "silhouette": "/players/132.png",
+    "assetReady": false
+  },
+  {
+    "id": 133,
+    "name": "Rafael Silva",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 93,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/133.png",
+    "silhouette": "/players/133.png",
+    "assetReady": false
+  },
+  {
+    "id": 134,
+    "name": "Mateo Soto",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 87,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/134.png",
+    "silhouette": "/players/134.png",
+    "assetReady": false
+  },
+  {
+    "id": 135,
+    "name": "Gabriel Torres",
+    "year": 2017,
+    "edition": "PRIME",
+    "position": "MED",
+    "positions": [
+      "MED"
+    ],
+    "rating": 92,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/135.png",
+    "silhouette": "/players/135.png",
+    "assetReady": false
+  },
+  {
+    "id": 136,
+    "name": "Cristiano Ronaldo",
+    "year": 2008,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 97,
+    "country": "Portugal",
+    "club": "Manchester United",
+    "awards": [
+      "Balón de Oro 2008",
+      "Champions League 2008"
+    ],
+    "image": "/players/136.png",
+    "silhouette": "/players/136.png",
+    "assetReady": false
+  },
+  {
+    "id": 137,
+    "name": "Cristian Mora",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 79,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/137.png",
+    "silhouette": "/players/137.png",
+    "assetReady": false
+  },
+  {
+    "id": 138,
+    "name": "Tomás Acosta",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 76,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/138.png",
+    "silhouette": "/players/138.png",
+    "assetReady": false
+  },
+  {
+    "id": 139,
+    "name": "Mario Salazar",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 77,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/139.png",
+    "silhouette": "/players/139.png",
+    "assetReady": false
+  },
+  {
+    "id": 140,
+    "name": "Alan Fuentes",
+    "year": 2022,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 73,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/140.png",
+    "silhouette": "/players/140.png",
+    "assetReady": false
+  },
+  {
+    "id": 141,
+    "name": "Fabián Bravo",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 72,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/141.png",
+    "silhouette": "/players/141.png",
+    "assetReady": false
+  },
+  {
+    "id": 142,
+    "name": "Renato Gil",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 93,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/142.png",
+    "silhouette": "/players/142.png",
+    "assetReady": false
+  },
+  {
+    "id": 143,
+    "name": "Carlos Núñez",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 73,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/143.png",
+    "silhouette": "/players/143.png",
+    "assetReady": false
+  },
+  {
+    "id": 144,
+    "name": "Emanuel López",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 74,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/144.png",
+    "silhouette": "/players/144.png",
+    "assetReady": false
+  },
+  {
+    "id": 145,
+    "name": "Felipe Paz",
+    "year": 2011,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 84,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/145.png",
+    "silhouette": "/players/145.png",
+    "assetReady": false
+  },
+  {
+    "id": 146,
+    "name": "Iván Mendes",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 88,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/146.png",
+    "silhouette": "/players/146.png",
+    "assetReady": false
+  },
+  {
+    "id": 147,
+    "name": "Rafael Herrera",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 93,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/147.png",
+    "silhouette": "/players/147.png",
+    "assetReady": false
+  },
+  {
+    "id": 148,
+    "name": "Mateo Vega",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 84,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/148.png",
+    "silhouette": "/players/148.png",
+    "assetReady": false
+  },
+  {
+    "id": 149,
+    "name": "Gabriel Rojas",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 88,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/149.png",
+    "silhouette": "/players/149.png",
+    "assetReady": false
+  },
+  {
+    "id": 150,
+    "name": "Lucas Reyes",
+    "year": 2016,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 81,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/150.png",
+    "silhouette": "/players/150.png",
+    "assetReady": false
+  },
+  {
+    "id": 151,
+    "name": "Nicolás Mendes",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 78,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/151.png",
+    "silhouette": "/players/151.png",
+    "assetReady": false
+  },
+  {
+    "id": 152,
+    "name": "Santiago Herrera",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 87,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/152.png",
+    "silhouette": "/players/152.png",
+    "assetReady": false
+  },
+  {
+    "id": 153,
+    "name": "Emilio Vega",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 94,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/153.png",
+    "silhouette": "/players/153.png",
+    "assetReady": false
+  },
+  {
+    "id": 154,
+    "name": "Bruno Rojas",
+    "year": 2020,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 90,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/154.png",
+    "silhouette": "/players/154.png",
+    "assetReady": false
+  },
+  {
+    "id": 155,
+    "name": "Daniel Reyes",
+    "year": 2021,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 91,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/155.png",
+    "silhouette": "/players/155.png",
+    "assetReady": false
+  },
+  {
+    "id": 156,
+    "name": "Álex Mendes",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 79,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/156.png",
+    "silhouette": "/players/156.png",
+    "assetReady": false
+  },
+  {
+    "id": 157,
+    "name": "Tomás Herrera",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 92,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/157.png",
+    "silhouette": "/players/157.png",
+    "assetReady": false
+  },
+  {
+    "id": 158,
+    "name": "Iván Vega",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 78,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/158.png",
+    "silhouette": "/players/158.png",
+    "assetReady": false
+  },
+  {
+    "id": 159,
+    "name": "Rafael Rojas",
+    "year": 2025,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 74,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/159.png",
+    "silhouette": "/players/159.png",
+    "assetReady": false
+  },
+  {
+    "id": 160,
+    "name": "Mateo Torres",
+    "year": 2010,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 93,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/160.png",
+    "silhouette": "/players/160.png",
+    "assetReady": false
+  },
+  {
+    "id": 161,
+    "name": "Gabriel Costa",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 76,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/161.png",
+    "silhouette": "/players/161.png",
+    "assetReady": false
+  },
+  {
+    "id": 162,
+    "name": "Lucas Luna",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 79,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/162.png",
+    "silhouette": "/players/162.png",
+    "assetReady": false
+  },
+  {
+    "id": 163,
+    "name": "Nicolás Silva",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 82,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/163.png",
+    "silhouette": "/players/163.png",
+    "assetReady": false
+  },
+  {
+    "id": 164,
+    "name": "Santiago Soto",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 88,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/164.png",
+    "silhouette": "/players/164.png",
+    "assetReady": false
+  },
+  {
+    "id": 165,
+    "name": "Emilio Torres",
+    "year": 2015,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 82,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/165.png",
+    "silhouette": "/players/165.png",
+    "assetReady": false
+  },
+  {
+    "id": 166,
+    "name": "Bruno Costa",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 84,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/166.png",
+    "silhouette": "/players/166.png",
+    "assetReady": false
+  },
+  {
+    "id": 167,
+    "name": "Daniel Luna",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 87,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/167.png",
+    "silhouette": "/players/167.png",
+    "assetReady": false
+  },
+  {
+    "id": 168,
+    "name": "Álex Silva",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 89,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/168.png",
+    "silhouette": "/players/168.png",
+    "assetReady": false
+  },
+  {
+    "id": 169,
+    "name": "Tomás Soto",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 79,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/169.png",
+    "silhouette": "/players/169.png",
+    "assetReady": false
+  },
+  {
+    "id": 170,
+    "name": "Iván Torres",
+    "year": 2020,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 92,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/170.png",
+    "silhouette": "/players/170.png",
+    "assetReady": false
+  },
+  {
+    "id": 171,
+    "name": "Rafael Costa",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 84,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/171.png",
+    "silhouette": "/players/171.png",
+    "assetReady": false
+  },
+  {
+    "id": 172,
+    "name": "Mateo Luna",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 94,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/172.png",
+    "silhouette": "/players/172.png",
+    "assetReady": false
+  },
+  {
+    "id": 173,
+    "name": "Gabriel Silva",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 92,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/173.png",
+    "silhouette": "/players/173.png",
+    "assetReady": false
+  },
+  {
+    "id": 174,
+    "name": "Lucas Soto",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 81,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/174.png",
+    "silhouette": "/players/174.png",
+    "assetReady": false
+  },
+  {
+    "id": 175,
+    "name": "Nicolás Torres",
+    "year": 2025,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 91,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/175.png",
+    "silhouette": "/players/175.png",
+    "assetReady": false
+  },
+  {
+    "id": 176,
+    "name": "Santiago Costa",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 92,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/176.png",
+    "silhouette": "/players/176.png",
+    "assetReady": false
+  },
+  {
+    "id": 177,
+    "name": "Emilio Luna",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 94,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/177.png",
+    "silhouette": "/players/177.png",
+    "assetReady": false
+  },
+  {
+    "id": 178,
+    "name": "Bruno Silva",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 83,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/178.png",
+    "silhouette": "/players/178.png",
+    "assetReady": false
+  },
+  {
+    "id": 179,
+    "name": "Daniel Soto",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 93,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/179.png",
+    "silhouette": "/players/179.png",
+    "assetReady": false
+  },
+  {
+    "id": 180,
+    "name": "Álex Torres",
+    "year": 2014,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 74,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/180.png",
+    "silhouette": "/players/180.png",
+    "assetReady": false
+  },
+  {
+    "id": 181,
+    "name": "Tomás Costa",
+    "year": 2015,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 90,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/181.png",
+    "silhouette": "/players/181.png",
+    "assetReady": false
+  },
+  {
+    "id": 182,
+    "name": "Iván Luna",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 87,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/182.png",
+    "silhouette": "/players/182.png",
+    "assetReady": false
+  },
+  {
+    "id": 183,
+    "name": "Rafael Silva",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 88,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/183.png",
+    "silhouette": "/players/183.png",
+    "assetReady": false
+  },
+  {
+    "id": 184,
+    "name": "Mateo Soto",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 94,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/184.png",
+    "silhouette": "/players/184.png",
+    "assetReady": false
+  },
+  {
+    "id": 185,
+    "name": "Gabriel Torres",
+    "year": 2019,
+    "edition": "PRIME",
+    "position": "DEL",
+    "positions": [
+      "DEL"
+    ],
+    "rating": 86,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/185.png",
+    "silhouette": "/players/185.png",
+    "assetReady": false
+  },
+  {
+    "id": 1,
+    "name": "Leo Costa",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 90,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/1.png",
+    "silhouette": "/players/1-silhouette.png",
+    "assetReady": true,
+    "reserveOnly": true
+  },
+  {
+    "id": 2,
+    "name": "Adrián Vega",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 84,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/2.png",
+    "silhouette": "/players/2.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 3,
+    "name": "Lucas Romero",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 76,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/3.png",
+    "silhouette": "/players/3.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 4,
+    "name": "Nicolás Reyes",
+    "year": 2014,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 89,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/4.png",
+    "silhouette": "/players/4.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 5,
+    "name": "Santiago Mendes",
+    "year": 2015,
+    "edition": "PRIME",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 88,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/5.png",
+    "silhouette": "/players/5.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 6,
+    "name": "Emilio Herrera",
+    "year": 2016,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 76,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/6.png",
+    "silhouette": "/players/6.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 7,
+    "name": "Bruno Vega",
+    "year": 2017,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 78,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/7.png",
+    "silhouette": "/players/7.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 8,
+    "name": "Daniel Rojas",
+    "year": 2018,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 86,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/8.png",
+    "silhouette": "/players/8.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 9,
+    "name": "Álex Reyes",
+    "year": 2019,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 75,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/9.png",
+    "silhouette": "/players/9.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 10,
+    "name": "Tomás Mendes",
+    "year": 2020,
+    "edition": "PRIME",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 75,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/10.png",
+    "silhouette": "/players/10.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 11,
+    "name": "Iván Herrera",
+    "year": 2021,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 89,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/11.png",
+    "silhouette": "/players/11.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 12,
+    "name": "Rafael Vega",
+    "year": 2022,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 88,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/12.png",
+    "silhouette": "/players/12.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 13,
+    "name": "Mateo Rojas",
+    "year": 2023,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 76,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/13.png",
+    "silhouette": "/players/13.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 14,
+    "name": "Gabriel Reyes",
+    "year": 2024,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 78,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/14.png",
+    "silhouette": "/players/14.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 15,
+    "name": "Lucas Mendes",
+    "year": 2025,
+    "edition": "PRIME",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 86,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/15.png",
+    "silhouette": "/players/15.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 16,
+    "name": "Nicolás Herrera",
+    "year": 2010,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 75,
+    "country": "Portugal",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/16.png",
+    "silhouette": "/players/16.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 17,
+    "name": "Santiago Vega",
+    "year": 2011,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 75,
+    "country": "Argentina",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/17.png",
+    "silhouette": "/players/17.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 18,
+    "name": "Emilio Rojas",
+    "year": 2012,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 94,
+    "country": "Brasil",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/18.png",
+    "silhouette": "/players/18.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 19,
+    "name": "Bruno Reyes",
+    "year": 2013,
+    "edition": "CLÁSICA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 80,
+    "country": "España",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/19.png",
+    "silhouette": "/players/19.png",
+    "assetReady": false,
+    "reserveOnly": true
+  },
+  {
+    "id": 20,
+    "name": "Daniel Mendes",
+    "year": 2014,
+    "edition": "PRIME",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "rating": 80,
+    "country": "Nicaragua",
+    "club": "Club ficticio",
+    "awards": [],
+    "image": "/players/20.png",
+    "silhouette": "/players/20.png",
+    "assetReady": false,
+    "reserveOnly": true
+  }
+]

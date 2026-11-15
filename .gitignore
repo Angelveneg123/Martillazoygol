@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+__pycache__/
+.venv/
+*.pyc
+frontend/android/.gradle/
+frontend/android/build/
