@@ -3,7 +3,7 @@ from pathlib import Path
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 
-app=FastAPI(title='Subasta FC V3 - Motor autoritativo')
+app=FastAPI(title='Martillazo y Gol - Beta completa')
 app.add_middleware(CORSMiddleware,allow_origins=['*'],allow_methods=['*'],allow_headers=['*'])
 CARDS=json.loads((Path(__file__).parent/'players.json').read_text(encoding='utf-8'))
 rooms={}; clients={}; locks={}
@@ -15,8 +15,8 @@ def eligible(card,slot):
  positions=card.get('positions') or []
  if slot in ('LI','LD','DFC'):return card.get('slotPosition')==slot or slot in positions or (slot=='DFC' and card.get('position')=='DEF' and not card.get('slotPosition'))
  if slot=='POR':return card['position']=='POR'
- if slot in ('MC','MCD'):return card['position']=='MED'
- return card['position']=='DEL'
+ if slot in ('MC','MCD'):return card['position']=='MED' and (slot in positions or card.get('slotPosition')==slot or not positions)
+ return card['position']=='DEL' and (slot in positions or card.get('slotPosition')==slot)
 SLOTS=['EI','DC','ED','MC','MCD','MC','LI','DFC','DFC','LD','POR']
 def owned(p):return p['team']+p['bench']
 def eleven(p):
@@ -31,14 +31,14 @@ def roster_valid(p):return all(eleven(p)) and len({c['id'] for c in eleven(p) if
 def rank(room):
  rows=[]
  for p in room['players'].values():
-  valid=roster_valid(p); rating=sum(c['rating'] for c in eleven(p) if c) if valid else 0
+  valid=roster_valid(p); rating=sum(c['rating'] for c in eleven(p) if c)
   rows.append(dict(id=p['id'],name=p['name'],score=rating,rating=rating,count=sum(c is not None for c in eleven(p)),valid=valid,budget=p['budget']))
  return sorted(rows,key=lambda x:(not x['valid'],-x['score'],-x['budget'],x['id']))
 
 def public(room):
  cur=room['current']; settings=room['settings']
  return dict(code=room['code'],status=room['status'],host=room['host'],round=room['round'],totalRounds=settings['rounds'],settings=settings,
-  players=[{k:v for k,v in p.items() if k!='token'} for p in room['players'].values()],
+  players=[{k:v for k,v in p.items() if k!='token'} for p in room['players'].values()],visibility=room.get('visibility','private'),mode=room.get('mode','multi'),
   current=({'id':cur['id'],'base':0,'assetReady':cur['assetReady'],'silhouette':cur['silhouette']} if cur else None),
   reveal=room['reveal'],chat=room['chat'][-80:],endsAt=room['endsAt'],highest=room['highest'],leader=room['leader'],
   history=room['history'][-30:],results=room['results'],phase=room['phase'],offers=room.get('offers',[])[-100:])
@@ -72,11 +72,31 @@ def complete_rosters(room):
     card=max(options,key=lambda c:c['rating']);p['bench'].append(card);used.add(card['id']);p['autoAssigned'].append(card['id']);auto_lineup(p)
  room['phase']='completion';room['results']=rank(room);room['status']='finished'
 
+def make_deck(rounds):
+ # Uniform random selection across all positions with available artwork.
+ # Ensure each of the 11 formation slots has at least one chance to appear.
+ pool=[c for c in CARDS if c.get('assetReady') and not c.get('reserveOnly')]
+ if len(pool)<rounds:raise ValueError('No hay suficientes futbolistas preparados')
+ selected=[];seen=set()
+ for slot in SLOTS:
+  choices=[c for c in pool if c['id'] not in seen and eligible(c,slot)]
+  if choices:
+   c=random.choice(choices);selected.append(c);seen.add(c['id'])
+ others=[c for c in pool if c['id'] not in seen]
+ selected+=random.sample(others,rounds-len(selected))
+ random.shuffle(selected)
+ return selected
+
+def make_bot(room):
+ token='bot-'+secrets.token_hex(5)
+ room['players'][token]=dict(id=token,name='Martillo IA',budget=room['settings']['budget'],team=[],bench=[],lineup=[None]*11,autoAssigned=[],connected=True,ready=True,bot=True)
+ return token
+
 def next_round(room):
  room['round']+=1;room['leader']=None;room['highest']=0;room['reveal']=None
  if room['round']>room['settings']['rounds']:
   room['current']=None;room['endsAt']=None;complete_rosters(room);return
- room['current']=room['deck'][room['round']-1];room['endsAt']=ms()+room['settings']['duration']*1000
+ room['current']=room['deck'][room['round']-1];room['endsAt']=ms()+room['settings']['duration']*1000;room['botNextAt']=ms()+random.randint(2500,6500)
 
 async def clock(code):
  room=rooms[code]
@@ -84,7 +104,19 @@ async def clock(code):
   await asyncio.sleep(.2)
   async with locks[code]:
    if room['status']!='auction':break
-   if room['endsAt'] is None or ms()<room['endsAt']:continue
+   if room['endsAt'] is None:continue
+   # Bot bidding is server-authoritative and budget-limited.
+   if room.get('mode')=='solo' and room['current'] and ms()>=room.get('botNextAt',0) and ms()<room['endsAt']-1800:
+    room['botNextAt']=ms()+random.randint(3500,7000)
+    bot=next((p for p in room['players'].values() if p.get('bot')),None)
+    if bot and room['leader']!=bot['id'] and len(owned(bot))<14:
+     minbid=room['highest']+1 if room['leader'] else 1
+     wanted=any(eligible(room['current'],slot) and not eleven(bot)[i] for i,slot in enumerate(SLOTS))
+     ceiling=min(bot['budget'],max(3,int(bot['budget']*.13)))
+     if minbid<=ceiling and random.random()<(0.80 if wanted else 0.28):
+      room['highest']=minbid+random.randint(0,min(2,ceiling-minbid));room['leader']=bot['id'];room['history'].append(dict(type='bid',winner=bot['name'],amount=room['highest']))
+      room['endsAt']=max(room['endsAt'],ms()+5000);await broadcast(room)
+   if ms()<room['endsAt']:continue
    card=room['current'];winner=room['players'].get(room['leader']) if room['leader'] else None
    if winner:
     winner['budget']-=room['highest']
@@ -99,7 +131,12 @@ async def clock(code):
    next_round(room);await broadcast(room)
 
 @app.get('/health')
-def health():return dict(ok=True,version='3.0',catalog=len(CARDS),rooms=len(rooms))
+def health():return dict(ok=True,version='17.0',catalog=len(CARDS),readyAssets=sum(c.get('assetReady',False) for c in CARDS),rooms=len(rooms))
+
+@app.get('/rooms')
+def list_rooms():return public_rooms()
+
+def public_rooms():return [dict(code=r['code'],players=len(r['players']),maxPlayers=MAX_PARTICIPANTS,settings=r['settings'],status=r['status']) for r in rooms.values() if r.get('visibility')=='public' and r['status']=='lobby' and len(r['players'])<MAX_PARTICIPANTS]
 
 @app.websocket('/ws')
 async def websocket(ws:WebSocket):
@@ -111,17 +148,23 @@ async def websocket(ws:WebSocket):
     requested=str(data.get('code','')).strip().upper();token=str(data.get('token',''))[:100] or secrets.token_urlsafe(20)
     name=str(data.get('name','Manager')).strip()[:22] or 'Manager'
     if action=='create':
+     visibility='public' if data.get('visibility')=='public' else 'private'
+     mode='solo' if data.get('mode')=='solo' else 'multi'
+     if mode=='solo':visibility='private'
      settings_in=data.get('settings') or {}
      try: duration=int(settings_in.get('duration',60));budget=int(settings_in.get('budget',500));rounds=int(settings_in.get('rounds',24))
      except (ValueError,TypeError):await notify(ws,'Configuración inválida');continue
      if not 15<=duration<=180 or not 1<=budget<=5000 or not 12<=rounds<=40:
       await notify(ws,'Duración 15-180s, presupuesto 1-5000M, rondas 12-40');continue
-     code=secrets.token_hex(3).upper();featured=[c for c in CARDS if c.get('assetReady') and c['position']=='DEF'];others=[c for c in CARDS if c['position']!='POR' and not c.get('reserveOnly') and c not in featured];n=min(len(featured),rounds);deck=random.sample(featured,n)+random.sample(others,rounds-n);random.shuffle(deck);deckids={c['id'] for c in deck}
-     room=dict(code=code,status='lobby',host=token,round=0,players={},deck=deck,reserve=[c for c in CARDS if c['id'] not in deckids],current=None,highest=0,leader=None,endsAt=None,history=[],results=None,chat=[],reveal=None,phase='lobby',offers=[],offerSeq=0,settings=dict(duration=duration,budget=budget,rounds=rounds))
+     code=secrets.token_hex(3).upper();deck=make_deck(rounds);deckids={c['id'] for c in deck}
+     room=dict(code=code,status='lobby',host=token,round=0,players={},deck=deck,reserve=[c for c in CARDS if c['id'] not in deckids],current=None,highest=0,leader=None,endsAt=None,history=[],results=None,chat=[],reveal=None,phase='lobby',offers=[],offerSeq=0,settings=dict(duration=duration,budget=budget,rounds=rounds),visibility=visibility,mode=mode)
      rooms[code]=room;locks[code]=asyncio.Lock();clients[code]={}
+     if mode=='solo':make_bot(room)
     else:
      code=requested;room=rooms.get(code)
      if not room:await notify(ws,'Sala no encontrada');code=None;continue
+     if token.startswith('bot-'):await notify(ws,'La identidad de la IA no se puede utilizar');code=None;continue
+     if room.get('mode')=='solo' and token not in room['players']:await notify(ws,'Esta sala es para un jugador y la IA');code=None;continue
     async with locks[code]:
      if token not in room['players']:
       if room['status']!='lobby' or len(room['players'])>=MAX_PARTICIPANTS:
@@ -153,6 +196,9 @@ async def websocket(ws:WebSocket):
       code=None;pid=None
       continue
      if action=='ready' and room['status']=='lobby':p['ready']=bool(data.get('ready'))
+     elif action=='list_rooms':
+      await ws.send_json(dict(type='rooms',rooms=public_rooms()))
+      continue
      elif action=='start':
       if room['host']!=pid or room['status']!='lobby' or len(room['players'])<2 or not all(x['ready'] for x in room['players'].values()):
        await notify(ws,'Se necesitan 2-5 managers listos');continue
@@ -163,7 +209,7 @@ async def websocket(ws:WebSocket):
      elif action=='restart':
       if room['host']!=pid or room['status']!='finished':await notify(ws,'Solo el anfitrión puede reiniciar');continue
       room.update(status='lobby',round=0,current=None,endsAt=None,leader=None,highest=0,reveal=None,results=None,history=[],phase='lobby',offers=[],offerSeq=0)
-      featured=[c for c in CARDS if c.get('assetReady') and c['position']=='DEF'];others=[c for c in CARDS if c['position']!='POR' and not c.get('reserveOnly') and c not in featured];n=min(len(featured),room['settings']['rounds']);room['deck']=random.sample(featured,n)+random.sample(others,room['settings']['rounds']-n);random.shuffle(room['deck']);used={c['id'] for c in room['deck']};room['reserve']=[c for c in CARDS if c['id'] not in used]
+      room['deck']=make_deck(room['settings']['rounds']);used={c['id'] for c in room['deck']};room['reserve']=[c for c in CARDS if c['id'] not in used]
       for member in room['players'].values():member.update(budget=room['settings']['budget'],team=[],bench=[],lineup=[None]*11,autoAssigned=[],ready=False)
       room['chat'].append(dict(name='Sistema',message='Nueva partida lista. Marquen listo.',at=ms()))
      elif action=='lineup':
@@ -223,7 +269,7 @@ async def websocket(ws:WebSocket):
       minimum=1 if room['leader'] is None else room['highest']+1
       if type(amount)!=int or amount<minimum or amount>p['budget']:
        await notify(ws,f'Puja inválida: mínimo {minimum}M y máximo tu presupuesto');continue
-      if room['leader']==pid or len(p['team'])>=14:
+      if room['leader']==pid or len(owned(p))>=14:
        await notify(ws,'Ya lideras o alcanzaste el límite de fichajes');continue
       room['highest']=amount;room['leader']=pid
       room['history'].append(dict(type='bid',winner=p['name'],amount=amount))

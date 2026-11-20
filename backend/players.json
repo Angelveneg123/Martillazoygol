@@ -49,7 +49,7 @@
       "LI"
     ],
     "slotPosition": "LI",
-    "rating": 91,
+    "rating": 87,
     "country": "Francia",
     "club": "AC Milan",
     "awards": [],
@@ -348,7 +348,7 @@
     "positions": [
       "DFC"
     ],
-    "rating": 94,
+    "rating": 91,
     "country": "España",
     "club": "FC Barcelona",
     "awards": [],
@@ -428,7 +428,7 @@
     "positions": [
       "DFC"
     ],
-    "rating": 93,
+    "rating": 89,
     "country": "Inglaterra",
     "club": "Chelsea",
     "awards": [],
@@ -3711,5 +3711,1485 @@
     "silhouette": "/players/20.png",
     "assetReady": false,
     "reserveOnly": true
+  },
+  {
+    "id": 30001,
+    "name": "Xavi Hernandez",
+    "year": 2010,
+    "edition": "ELITE",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 97,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/XAVI_HERNANDEZ_2010/XAVI_HERNANDEZ_2010_CARTA.png",
+    "image": "/midfield/MC/XAVI_HERNANDEZ_2010/XAVI_HERNANDEZ_2010_JUGADOR.png",
+    "silhouette": "/midfield/MC/XAVI_HERNANDEZ_2010/XAVI_HERNANDEZ_2010_SILUETA.png"
+  },
+  {
+    "id": 30002,
+    "name": "Zinedine Zidane",
+    "year": 2002,
+    "edition": "ELITE",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 96,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/ZINEDINE_ZIDANE_2002/ZINEDINE_ZIDANE_2002_CARTA.png",
+    "image": "/midfield/MC/ZINEDINE_ZIDANE_2002/ZINEDINE_ZIDANE_2002_JUGADOR.png",
+    "silhouette": "/midfield/MC/ZINEDINE_ZIDANE_2002/ZINEDINE_ZIDANE_2002_SILUETA.png"
+  },
+  {
+    "id": 30003,
+    "name": "Kevin De Bruyne",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 94,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/KEVIN_DE_BRUYNE_2023/KEVIN_DE_BRUYNE_2023_CARTA.png",
+    "image": "/midfield/MC/KEVIN_DE_BRUYNE_2023/KEVIN_DE_BRUYNE_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/KEVIN_DE_BRUYNE_2023/KEVIN_DE_BRUYNE_2023_SILUETA.png"
+  },
+  {
+    "id": 30004,
+    "name": "Steven Gerrard",
+    "year": 2005,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 93,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/STEVEN_GERRARD_2005/STEVEN_GERRARD_2005_CARTA.png",
+    "image": "/midfield/MC/STEVEN_GERRARD_2005/STEVEN_GERRARD_2005_JUGADOR.png",
+    "silhouette": "/midfield/MC/STEVEN_GERRARD_2005/STEVEN_GERRARD_2005_SILUETA.png"
+  },
+  {
+    "id": 30005,
+    "name": "Paul Scholes",
+    "year": 2008,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 91,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/PAUL_SCHOLES_2008/PAUL_SCHOLES_2008_CARTA.png",
+    "image": "/midfield/MC/PAUL_SCHOLES_2008/PAUL_SCHOLES_2008_JUGADOR.png",
+    "silhouette": "/midfield/MC/PAUL_SCHOLES_2008/PAUL_SCHOLES_2008_SILUETA.png"
+  },
+  {
+    "id": 30006,
+    "name": "Bruno Fernandes",
+    "year": 2021,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 89,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/BRUNO_FERNANDES_2021/BRUNO_FERNANDES_2021_CARTA.png",
+    "image": "/midfield/MC/BRUNO_FERNANDES_2021/BRUNO_FERNANDES_2021_JUGADOR.png",
+    "silhouette": "/midfield/MC/BRUNO_FERNANDES_2021/BRUNO_FERNANDES_2021_SILUETA.png"
+  },
+  {
+    "id": 30007,
+    "name": "Bernardo Silva",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 88,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/BERNARDO_SILVA_2023/BERNARDO_SILVA_2023_CARTA.png",
+    "image": "/midfield/MC/BERNARDO_SILVA_2023/BERNARDO_SILVA_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/BERNARDO_SILVA_2023/BERNARDO_SILVA_2023_SILUETA.png"
+  },
+  {
+    "id": 30008,
+    "name": "Dominik Szoboszlai",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 82,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/DOMINIK_SZOBOSZLAI_2023/DOMINIK_SZOBOSZLAI_2023_CARTA.png",
+    "image": "/midfield/MC/DOMINIK_SZOBOSZLAI_2023/DOMINIK_SZOBOSZLAI_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/DOMINIK_SZOBOSZLAI_2023/DOMINIK_SZOBOSZLAI_2023_SILUETA.png"
+  },
+  {
+    "id": 30009,
+    "name": "Mason Mount",
+    "year": 2021,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 78,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/MASON_MOUNT_2021/MASON_MOUNT_2021_CARTA.png",
+    "image": "/midfield/MC/MASON_MOUNT_2021/MASON_MOUNT_2021_JUGADOR.png",
+    "silhouette": "/midfield/MC/MASON_MOUNT_2021/MASON_MOUNT_2021_SILUETA.png"
+  },
+  {
+    "id": 30010,
+    "name": "Harvey Elliott",
+    "year": 2023,
+    "edition": "INICIAL",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 73,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/HARVEY_ELLIOTT_2023/HARVEY_ELLIOTT_2023_CARTA.png",
+    "image": "/midfield/MC/HARVEY_ELLIOTT_2023/HARVEY_ELLIOTT_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/HARVEY_ELLIOTT_2023/HARVEY_ELLIOTT_2023_SILUETA.png"
+  },
+  {
+    "id": 30011,
+    "name": "Sergio Busquets",
+    "year": 2011,
+    "edition": "ELITE",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 95,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/SERGIO_BUSQUETS_2011/SERGIO_BUSQUETS_2011_CARTA.png",
+    "image": "/midfield/MCD/SERGIO_BUSQUETS_2011/SERGIO_BUSQUETS_2011_JUGADOR.png",
+    "silhouette": "/midfield/MCD/SERGIO_BUSQUETS_2011/SERGIO_BUSQUETS_2011_SILUETA.png"
+  },
+  {
+    "id": 30012,
+    "name": "Casemiro",
+    "year": 2017,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 92,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/CASEMIRO_2017/CASEMIRO_2017_CARTA.png",
+    "image": "/midfield/MCD/CASEMIRO_2017/CASEMIRO_2017_JUGADOR.png",
+    "silhouette": "/midfield/MCD/CASEMIRO_2017/CASEMIRO_2017_SILUETA.png"
+  },
+  {
+    "id": 30013,
+    "name": "Rodri",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 92,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/RODRI_2023/RODRI_2023_CARTA.png",
+    "image": "/midfield/MCD/RODRI_2023/RODRI_2023_JUGADOR.png",
+    "silhouette": "/midfield/MCD/RODRI_2023/RODRI_2023_SILUETA.png"
+  },
+  {
+    "id": 30014,
+    "name": "N’Golo Kanté",
+    "year": 2018,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 91,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/NGOLO_KANTE_2018/NGOLO_KANTE_2018_CARTA.png",
+    "image": "/midfield/MCD/NGOLO_KANTE_2018/NGOLO_KANTE_2018_JUGADOR.png",
+    "silhouette": "/midfield/MCD/NGOLO_KANTE_2018/NGOLO_KANTE_2018_SILUETA.png"
+  },
+  {
+    "id": 30015,
+    "name": "Joshua Kimmich",
+    "year": 2020,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 89,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/JOSHUA_KIMMICH_2020/JOSHUA_KIMMICH_2020_CARTA.png",
+    "image": "/midfield/MCD/JOSHUA_KIMMICH_2020/JOSHUA_KIMMICH_2020_JUGADOR.png",
+    "silhouette": "/midfield/MCD/JOSHUA_KIMMICH_2020/JOSHUA_KIMMICH_2020_SILUETA.png"
+  },
+  {
+    "id": 30016,
+    "name": "Declan Rice",
+    "year": 2024,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 86,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/DECLAN_RICE_2024/DECLAN_RICE_2024_CARTA.png",
+    "image": "/midfield/MCD/DECLAN_RICE_2024/DECLAN_RICE_2024_JUGADOR.png",
+    "silhouette": "/midfield/MCD/DECLAN_RICE_2024/DECLAN_RICE_2024_SILUETA.png"
+  },
+  {
+    "id": 30017,
+    "name": "Aurélien Tchouaméni",
+    "year": 2024,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 83,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/AURELIEN_TCHOUAMENI_2024/AURELIEN_TCHOUAMENI_2024_CARTA.png",
+    "image": "/midfield/MCD/AURELIEN_TCHOUAMENI_2024/AURELIEN_TCHOUAMENI_2024_JUGADOR.png",
+    "silhouette": "/midfield/MCD/AURELIEN_TCHOUAMENI_2024/AURELIEN_TCHOUAMENI_2024_SILUETA.png"
+  },
+  {
+    "id": 30018,
+    "name": "Manuel Ugarte",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 79,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/MANUEL_UGARTE_2023/MANUEL_UGARTE_2023_CARTA.png",
+    "image": "/midfield/MCD/MANUEL_UGARTE_2023/MANUEL_UGARTE_2023_JUGADOR.png",
+    "silhouette": "/midfield/MCD/MANUEL_UGARTE_2023/MANUEL_UGARTE_2023_SILUETA.png"
+  },
+  {
+    "id": 30019,
+    "name": "João Palhinha",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 77,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/JOAO_PALHINHA_2023/JOAO_PALHINHA_2023_CARTA.png",
+    "image": "/midfield/MCD/JOAO_PALHINHA_2023/JOAO_PALHINHA_2023_JUGADOR.png",
+    "silhouette": "/midfield/MCD/JOAO_PALHINHA_2023/JOAO_PALHINHA_2023_SILUETA.png"
+  },
+  {
+    "id": 30020,
+    "name": "Romeo Lavia",
+    "year": 2023,
+    "edition": "INICIAL",
+    "position": "MED",
+    "positions": [
+      "MCD"
+    ],
+    "slotPosition": "MCD",
+    "rating": 72,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MCD/ROMEO_LAVIA_2023/ROMEO_LAVIA_2023_CARTA.png",
+    "image": "/midfield/MCD/ROMEO_LAVIA_2023/ROMEO_LAVIA_2023_JUGADOR.png",
+    "silhouette": "/midfield/MCD/ROMEO_LAVIA_2023/ROMEO_LAVIA_2023_SILUETA.png"
+  },
+  {
+    "id": 30021,
+    "name": "Andrés Iniesta",
+    "year": 2012,
+    "edition": "ELITE",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 97,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/ANDRES_INIESTA_2012/ANDRES_INIESTA_2012_CARTA.png",
+    "image": "/midfield/MC/ANDRES_INIESTA_2012/ANDRES_INIESTA_2012_JUGADOR.png",
+    "silhouette": "/midfield/MC/ANDRES_INIESTA_2012/ANDRES_INIESTA_2012_SILUETA.png"
+  },
+  {
+    "id": 30022,
+    "name": "Luka Modric",
+    "year": 2018,
+    "edition": "ELITE",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 95,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/LUKA_MODRIC_2018/LUKA_MODRIC_2018_CARTA.png",
+    "image": "/midfield/MC/LUKA_MODRIC_2018/LUKA_MODRIC_2018_JUGADOR.png",
+    "silhouette": "/midfield/MC/LUKA_MODRIC_2018/LUKA_MODRIC_2018_SILUETA.png"
+  },
+  {
+    "id": 30023,
+    "name": "Toni Kroos",
+    "year": 2014,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 93,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/TONI_KROOS_2014/TONI_KROOS_2014_CARTA.png",
+    "image": "/midfield/MC/TONI_KROOS_2014/TONI_KROOS_2014_JUGADOR.png",
+    "silhouette": "/midfield/MC/TONI_KROOS_2014/TONI_KROOS_2014_SILUETA.png"
+  },
+  {
+    "id": 30024,
+    "name": "Pedri",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 90,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/PEDRI_2023/PEDRI_2023_CARTA.png",
+    "image": "/midfield/MC/PEDRI_2023/PEDRI_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/PEDRI_2023/PEDRI_2023_SILUETA.png"
+  },
+  {
+    "id": 30025,
+    "name": "Frenkie De Jong",
+    "year": 2019,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 88,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/FRENKIE_DE_JONG_2019/FRENKIE_DE_JONG_2019_CARTA.png",
+    "image": "/midfield/MC/FRENKIE_DE_JONG_2019/FRENKIE_DE_JONG_2019_JUGADOR.png",
+    "silhouette": "/midfield/MC/FRENKIE_DE_JONG_2019/FRENKIE_DE_JONG_2019_SILUETA.png"
+  },
+  {
+    "id": 30026,
+    "name": "Jude Bellingham",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 91,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/JUDE_BELLINGHAM_2024/JUDE_BELLINGHAM_2024_CARTA.png",
+    "image": "/midfield/MC/JUDE_BELLINGHAM_2024/JUDE_BELLINGHAM_2024_JUGADOR.png",
+    "silhouette": "/midfield/MC/JUDE_BELLINGHAM_2024/JUDE_BELLINGHAM_2024_SILUETA.png"
+  },
+  {
+    "id": 30027,
+    "name": "Federico Valverde",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 87,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/FEDERICO_VALVERDE_2023/FEDERICO_VALVERDE_2023_CARTA.png",
+    "image": "/midfield/MC/FEDERICO_VALVERDE_2023/FEDERICO_VALVERDE_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/FEDERICO_VALVERDE_2023/FEDERICO_VALVERDE_2023_SILUETA.png"
+  },
+  {
+    "id": 30028,
+    "name": "Alexis Mac Allister",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 84,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/ALEXIS_MAC_ALLISTER_2023/ALEXIS_MAC_ALLISTER_2023_CARTA.png",
+    "image": "/midfield/MC/ALEXIS_MAC_ALLISTER_2023/ALEXIS_MAC_ALLISTER_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/ALEXIS_MAC_ALLISTER_2023/ALEXIS_MAC_ALLISTER_2023_SILUETA.png"
+  },
+  {
+    "id": 30029,
+    "name": "Conor Gallagher",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 77,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/CONOR_GALLAGHER_2023/CONOR_GALLAGHER_2023_CARTA.png",
+    "image": "/midfield/MC/CONOR_GALLAGHER_2023/CONOR_GALLAGHER_2023_JUGADOR.png",
+    "silhouette": "/midfield/MC/CONOR_GALLAGHER_2023/CONOR_GALLAGHER_2023_SILUETA.png"
+  },
+  {
+    "id": 30030,
+    "name": "Kobbie Mainoo",
+    "year": 2024,
+    "edition": "INICIAL",
+    "position": "MED",
+    "positions": [
+      "MC"
+    ],
+    "slotPosition": "MC",
+    "rating": 74,
+    "country": "Por definir",
+    "club": "Por definir",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/midfield/MC/KOBBIE_MAINOO_2024/KOBBIE_MAINOO_2024_CARTA.png",
+    "image": "/midfield/MC/KOBBIE_MAINOO_2024/KOBBIE_MAINOO_2024_JUGADOR.png",
+    "silhouette": "/midfield/MC/KOBBIE_MAINOO_2024/KOBBIE_MAINOO_2024_SILUETA.png"
+  },
+  {
+    "id": 31000,
+    "name": "Buffon",
+    "year": 2006,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 95,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/BUFFON_2006_card.png",
+    "image": "/complete/POR/BUFFON_2006_image.png",
+    "silhouette": "/complete/POR/BUFFON_2006_silhouette.png"
+  },
+  {
+    "id": 31001,
+    "name": "Courtois",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 94,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/COURTOIS_2022_card.png",
+    "image": "/complete/POR/COURTOIS_2022_image.png",
+    "silhouette": "/complete/POR/COURTOIS_2022_silhouette.png"
+  },
+  {
+    "id": 31002,
+    "name": "Alisson",
+    "year": 2019,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 92,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/ALISSON_2019_card.png",
+    "image": "/complete/POR/ALISSON_2019_image.png",
+    "silhouette": "/complete/POR/ALISSON_2019_silhouette.png"
+  },
+  {
+    "id": 31003,
+    "name": "Donnarumma",
+    "year": 2021,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 90,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/DONNARUMMA_2021_card.png",
+    "image": "/complete/POR/DONNARUMMA_2021_image.png",
+    "silhouette": "/complete/POR/DONNARUMMA_2021_silhouette.png"
+  },
+  {
+    "id": 31004,
+    "name": "Emiliano Martinez",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 89,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/EMILIANO_MARTINEZ_2022_card.png",
+    "image": "/complete/POR/EMILIANO_MARTINEZ_2022_image.png",
+    "silhouette": "/complete/POR/EMILIANO_MARTINEZ_2022_silhouette.png"
+  },
+  {
+    "id": 31005,
+    "name": "Ederson",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 89,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/EDERSON_2023_card.png",
+    "image": "/complete/POR/EDERSON_2023_image.png",
+    "silhouette": "/complete/POR/EDERSON_2023_silhouette.png"
+  },
+  {
+    "id": 31006,
+    "name": "Unai Simon",
+    "year": 2020,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 84,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/UNAI_SIMON_2020_card.png",
+    "image": "/complete/POR/UNAI_SIMON_2020_image.png",
+    "silhouette": "/complete/POR/UNAI_SIMON_2020_silhouette.png"
+  },
+  {
+    "id": 31007,
+    "name": "Robert Sanchez",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 79,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/ROBERT_SANCHEZ_2023_card.png",
+    "image": "/complete/POR/ROBERT_SANCHEZ_2023_image.png",
+    "silhouette": "/complete/POR/ROBERT_SANCHEZ_2023_silhouette.png"
+  },
+  {
+    "id": 31008,
+    "name": "Altay Bayindir",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 75,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/ALTAY_BAYINDIR_2024_card.png",
+    "image": "/complete/POR/ALTAY_BAYINDIR_2024_image.png",
+    "silhouette": "/complete/POR/ALTAY_BAYINDIR_2024_silhouette.png"
+  },
+  {
+    "id": 31009,
+    "name": "Gavin Bazunu",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "POR",
+    "positions": [
+      "POR"
+    ],
+    "slotPosition": "POR",
+    "rating": 74,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/POR/GAVIN_BAZUNU_2023_card.png",
+    "image": "/complete/POR/GAVIN_BAZUNU_2023_image.png",
+    "silhouette": "/complete/POR/GAVIN_BAZUNU_2023_silhouette.png"
+  },
+  {
+    "id": 31010,
+    "name": "LIONEL MESSI",
+    "year": 2012,
+    "edition": "ÉLITE / LEGENDARIA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 99,
+    "country": "AR",
+    "club": "FC Barcelona",
+    "awards": [
+      "Balón de Oro (2012)",
+      "91 goles en 2012",
+      "Champions League (2011)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/MESSI_2012_card.png",
+    "image": "/complete/ED/MESSI_2012_image.png",
+    "silhouette": "/complete/ED/MESSI_2012_silhouette.png"
+  },
+  {
+    "id": 31011,
+    "name": "MOHAMED SALAH",
+    "year": 2018,
+    "edition": "ÉLITE / LEGENDARIA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 95,
+    "country": "EG",
+    "club": "Liverpool",
+    "awards": [
+      "Bota de Oro Premier (2018)",
+      "Jugador del Año PFA (2018)",
+      "Finalista Champions (2018)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/SALAH_2018_card.png",
+    "image": "/complete/ED/SALAH_2018_image.png",
+    "silhouette": "/complete/ED/SALAH_2018_silhouette.png"
+  },
+  {
+    "id": 31012,
+    "name": "ARJEN ROBBEN",
+    "year": 2013,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 94,
+    "country": "NL",
+    "club": "Bayern Múnich",
+    "awards": [
+      "Champions League (2013)",
+      "Bundesliga (2013)",
+      "Copa alemana (2013)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/ROBBEN_2013_card.png",
+    "image": "/complete/ED/ROBBEN_2013_image.png",
+    "silhouette": "/complete/ED/ROBBEN_2013_silhouette.png"
+  },
+  {
+    "id": 31013,
+    "name": "GARETH BALE",
+    "year": 2014,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 93,
+    "country": "WA",
+    "club": "Real Madrid",
+    "awards": [
+      "Champions League (2014)",
+      "Copa del Rey (2014)",
+      "Supercopa UEFA (2014)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/BALE_2014_card.png",
+    "image": "/complete/ED/BALE_2014_image.png",
+    "silhouette": "/complete/ED/BALE_2014_silhouette.png"
+  },
+  {
+    "id": 31014,
+    "name": "ÁNGEL DI MARÍA",
+    "year": 2014,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 91,
+    "country": "AR",
+    "club": "Real Madrid",
+    "awards": [
+      "Champions League (2014)",
+      "Copa del Rey (2014)",
+      "Subcampeón Mundial (2014)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/DI_MARIA_2014_card.png",
+    "image": "/complete/ED/DI_MARIA_2014_image.png",
+    "silhouette": "/complete/ED/DI_MARIA_2014_silhouette.png"
+  },
+  {
+    "id": 31015,
+    "name": "BUKAYO SAKA",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 89,
+    "country": "EN",
+    "club": "Arsenal",
+    "awards": [
+      "Community Shield (2023)",
+      "Subcampeón Eurocopa (2024)",
+      "Jugador inglés del año (2023)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/SAKA_2024_card.png",
+    "image": "/complete/ED/SAKA_2024_image.png",
+    "silhouette": "/complete/ED/SAKA_2024_silhouette.png"
+  },
+  {
+    "id": 31016,
+    "name": "RAPHINHA",
+    "year": 2025,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 88,
+    "country": "BR",
+    "club": "FC Barcelona",
+    "awards": [
+      "LaLiga (2025)",
+      "Copa del Rey (2025)",
+      "Supercopa española (2025)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/RAPHINHA_2025_card.png",
+    "image": "/complete/ED/RAPHINHA_2025_image.png",
+    "silhouette": "/complete/ED/RAPHINHA_2025_silhouette.png"
+  },
+  {
+    "id": 31017,
+    "name": "RIYAD MAHREZ",
+    "year": 2016,
+    "edition": "INTERMEDIO",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 85,
+    "country": "DZ",
+    "club": "Leicester City",
+    "awards": [
+      "Premier League (2016)",
+      "Jugador del Año PFA (2016)",
+      "Futbolista africano (2016)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/MAHREZ_2016_card.png",
+    "image": "/complete/ED/MAHREZ_2016_image.png",
+    "silhouette": "/complete/ED/MAHREZ_2016_silhouette.png"
+  },
+  {
+    "id": 31018,
+    "name": "ANTONY",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 78,
+    "country": "BR",
+    "club": "Manchester United",
+    "awards": [
+      "Copa de la Liga (2023)",
+      "FA Cup finalista (2023)",
+      "Mundial 2022 con Brasil"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/ANTONY_2023_card.png",
+    "image": "/complete/ED/ANTONY_2023_image.png",
+    "silhouette": "/complete/ED/ANTONY_2023_silhouette.png"
+  },
+  {
+    "id": 31019,
+    "name": "AMAD DIALLO",
+    "year": 2024,
+    "edition": "INICIAL",
+    "position": "DEL",
+    "positions": [
+      "ED"
+    ],
+    "slotPosition": "ED",
+    "rating": 74,
+    "country": "CI",
+    "club": "Manchester United",
+    "awards": [
+      "FA Cup (2024)",
+      "Campeón Championship (2023)",
+      "Gol decisivo vs Liverpool (2024)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/ED/AMAD_DIALLO_2024_card.png",
+    "image": "/complete/ED/AMAD_DIALLO_2024_image.png",
+    "silhouette": "/complete/ED/AMAD_DIALLO_2024_silhouette.png"
+  },
+  {
+    "id": 31020,
+    "name": "RONALDINHO",
+    "year": 2005,
+    "edition": "ÉLITE / LEGENDARIA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 98,
+    "country": "BR",
+    "club": "FC Barcelona",
+    "awards": [
+      "Balón de Oro (2005)",
+      "1 Liga española (2005)",
+      "Mejor jugador FIFA (2005)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/RONALDINHO_2005_card.png",
+    "image": "/complete/EI/RONALDINHO_2005_image.png",
+    "silhouette": "/complete/EI/RONALDINHO_2005_silhouette.png"
+  },
+  {
+    "id": 31021,
+    "name": "NEYMAR JR.",
+    "year": 2015,
+    "edition": "ÉLITE / LEGENDARIA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 96,
+    "country": "BR",
+    "club": "FC Barcelona",
+    "awards": [
+      "Champions League (2015)",
+      "LaLiga (2015)",
+      "Copa del Rey (2015)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/NEYMAR_JR_2015_card.png",
+    "image": "/complete/EI/NEYMAR_JR_2015_image.png",
+    "silhouette": "/complete/EI/NEYMAR_JR_2015_silhouette.png"
+  },
+  {
+    "id": 31022,
+    "name": "KYLIAN MBAPPÉ",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 94,
+    "country": "FR",
+    "club": "Paris Saint-Germain",
+    "awards": [
+      "Campeón mundial (2018)",
+      "Bota de Oro Mundial (2022)",
+      "Ligue 1 (2022)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/KYLIAN_MBAPPE_2022_card.png",
+    "image": "/complete/EI/KYLIAN_MBAPPE_2022_image.png",
+    "silhouette": "/complete/EI/KYLIAN_MBAPPE_2022_silhouette.png"
+  },
+  {
+    "id": 31023,
+    "name": "VINÍCIUS JÚNIOR",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 93,
+    "country": "BR",
+    "club": "Real Madrid",
+    "awards": [
+      "Champions League (2024)",
+      "LaLiga (2024)",
+      "Mejor jugador UCL (2024)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/VINICIUS_JUNIOR_2024_card.png",
+    "image": "/complete/EI/VINICIUS_JUNIOR_2024_image.png",
+    "silhouette": "/complete/EI/VINICIUS_JUNIOR_2024_silhouette.png"
+  },
+  {
+    "id": 31024,
+    "name": "EDEN HAZARD",
+    "year": 2018,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 92,
+    "country": "BE",
+    "club": "Chelsea FC",
+    "awards": [
+      "2 Premier League",
+      "FA Cup (2018)",
+      "Europa League (2013)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/EDEN_HAZARD_2018_card.png",
+    "image": "/complete/EI/EDEN_HAZARD_2018_image.png",
+    "silhouette": "/complete/EI/EDEN_HAZARD_2018_silhouette.png"
+  },
+  {
+    "id": 31025,
+    "name": "SADIO MANÉ",
+    "year": 2019,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 90,
+    "country": "SN",
+    "club": "Liverpool FC",
+    "awards": [
+      "Champions League (2019)",
+      "Supercopa UEFA (2019)",
+      "Mundial de Clubes (2019)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/SADIO_MANE_2019_card.png",
+    "image": "/complete/EI/SADIO_MANE_2019_image.png",
+    "silhouette": "/complete/EI/SADIO_MANE_2019_silhouette.png"
+  },
+  {
+    "id": 31026,
+    "name": "SON HEUNG-MIN",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 87,
+    "country": "KR",
+    "club": "Tottenham Hotspur",
+    "awards": [
+      "Bota de Oro Premier (2022)",
+      "Premio Puskás (2020)",
+      "Oro Juegos Asiáticos (2018)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/SON_HEUNG_MIN_2022_card.png",
+    "image": "/complete/EI/SON_HEUNG_MIN_2022_image.png",
+    "silhouette": "/complete/EI/SON_HEUNG_MIN_2022_silhouette.png"
+  },
+  {
+    "id": 31027,
+    "name": "RAFAEL LEÃO",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 83,
+    "country": "PT",
+    "club": "AC Milan",
+    "awards": [
+      "Campeón Serie A (2022)",
+      "MVP Serie A (2022)",
+      "Semifinal UCL (2023)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/RAFAEL_LEAO_2023_card.png",
+    "image": "/complete/EI/RAFAEL_LEAO_2023_image.png",
+    "silhouette": "/complete/EI/RAFAEL_LEAO_2023_silhouette.png"
+  },
+  {
+    "id": 31028,
+    "name": "JACK GREALISH",
+    "year": 2023,
+    "edition": "INTERMEDIO",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 79,
+    "country": "EN",
+    "club": "Manchester City",
+    "awards": [
+      "Champions League (2023)",
+      "Premier League (2023)",
+      "FA Cup (2023)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/JACK_GREALISH_2023_card.png",
+    "image": "/complete/EI/JACK_GREALISH_2023_image.png",
+    "silhouette": "/complete/EI/JACK_GREALISH_2023_silhouette.png"
+  },
+  {
+    "id": 31029,
+    "name": "ALEJANDRO GARNACHO",
+    "year": 2024,
+    "edition": "INICIAL",
+    "position": "DEL",
+    "positions": [
+      "EI"
+    ],
+    "slotPosition": "EI",
+    "rating": 74,
+    "country": "AR",
+    "club": "Manchester United",
+    "awards": [
+      "FA Cup (2024)",
+      "FA Youth Cup (2022)",
+      "Premio Puskás (2024)"
+    ],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/EI/ALEJANDRO_GARNACHO_2024_card.png",
+    "image": "/complete/EI/ALEJANDRO_GARNACHO_2024_image.png",
+    "silhouette": "/complete/EI/ALEJANDRO_GARNACHO_2024_silhouette.png"
+  },
+  {
+    "id": 31030,
+    "name": "Ronaldo Nazario",
+    "year": 2002,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/RONALDO_NAZARIO_2002_card.png",
+    "image": "/complete/DC/RONALDO_NAZARIO_2002_image.png",
+    "silhouette": "/complete/DC/RONALDO_NAZARIO_2002_silhouette.png"
+  },
+  {
+    "id": 31031,
+    "name": "Cristiano Ronaldo",
+    "year": 2008,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/CRISTIANO_RONALDO_2008_card.png",
+    "image": "/complete/DC/CRISTIANO_RONALDO_2008_image.png",
+    "silhouette": "/complete/DC/CRISTIANO_RONALDO_2008_silhouette.png"
+  },
+  {
+    "id": 31032,
+    "name": "Thierry Henry",
+    "year": 2004,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/THIERRY_HENRY_2004_card.png",
+    "image": "/complete/DC/THIERRY_HENRY_2004_image.png",
+    "silhouette": "/complete/DC/THIERRY_HENRY_2004_silhouette.png"
+  },
+  {
+    "id": 31033,
+    "name": "Erling Haaland",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/ERLING_HAALAND_2023_card.png",
+    "image": "/complete/DC/ERLING_HAALAND_2023_image.png",
+    "silhouette": "/complete/DC/ERLING_HAALAND_2023_silhouette.png"
+  },
+  {
+    "id": 31034,
+    "name": "Robert Lewandowski",
+    "year": 2020,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 79,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/ROBERT_LEWANDOWSKI_2020_card.png",
+    "image": "/complete/DC/ROBERT_LEWANDOWSKI_2020_image.png",
+    "silhouette": "/complete/DC/ROBERT_LEWANDOWSKI_2020_silhouette.png"
+  },
+  {
+    "id": 31035,
+    "name": "Luis Suarez",
+    "year": 2016,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/LUIS_SUAREZ_2016_card.png",
+    "image": "/complete/DC/LUIS_SUAREZ_2016_image.png",
+    "silhouette": "/complete/DC/LUIS_SUAREZ_2016_silhouette.png"
+  },
+  {
+    "id": 31036,
+    "name": "Karim Benzema",
+    "year": 2022,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/KARIM_BENZEMA_2022_card.png",
+    "image": "/complete/DC/KARIM_BENZEMA_2022_image.png",
+    "silhouette": "/complete/DC/KARIM_BENZEMA_2022_silhouette.png"
+  },
+  {
+    "id": 31037,
+    "name": "Darwin Nunez",
+    "year": 2023,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/DARWIN_NUNEZ_2023_card.png",
+    "image": "/complete/DC/DARWIN_NUNEZ_2023_image.png",
+    "silhouette": "/complete/DC/DARWIN_NUNEZ_2023_silhouette.png"
+  },
+  {
+    "id": 31038,
+    "name": "Nicolas Jackson",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/NICOLAS_JACKSON_2024_card.png",
+    "image": "/complete/DC/NICOLAS_JACKSON_2024_image.png",
+    "silhouette": "/complete/DC/NICOLAS_JACKSON_2024_silhouette.png"
+  },
+  {
+    "id": 31039,
+    "name": "Rasmus Hojlund",
+    "year": 2024,
+    "edition": "ESTRELLA",
+    "position": "DEL",
+    "positions": [
+      "DC"
+    ],
+    "slotPosition": "DC",
+    "rating": 87,
+    "country": "",
+    "club": "",
+    "awards": [],
+    "assetReady": true,
+    "reserveOnly": false,
+    "cardImage": "/complete/DC/RASMUS_HOJLUND_2024_card.png",
+    "image": "/complete/DC/RASMUS_HOJLUND_2024_image.png",
+    "silhouette": "/complete/DC/RASMUS_HOJLUND_2024_silhouette.png"
   }
 ]
